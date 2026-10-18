@@ -14,10 +14,7 @@
       "url": "https://www.affix-io.com/mcp/",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "mcp:read",
-          "mcp:write"
-        ]
+        "scopes": ["mcp:read", "mcp:write"]
       }
     }
   ]
